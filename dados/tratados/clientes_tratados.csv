@@ -1,0 +1,1001 @@
+﻿id_cliente,nome,cidade,estado
+1,Ana Costa,Sao Paulo,SP
+2,Pedro Oliveira,Goiania,GO
+3,Rafael Lima,Sao Paulo,SP
+4,Beatriz Rodrigues,Sao Paulo,SP
+5,Ana Santos,Uberlandia,MG
+6,Pedro Lima,Goiania,GO
+7,Ana Lima,Ribeirao Preto,SP
+8,Camila Lima,Goiania,GO
+9,Pedro Almeida,Curitiba,PR
+10,Lucas Silva,Ribeirao Preto,SP
+11,Camila Rodrigues,Belo Horizonte,MG
+12,Lucas Oliveira,Campinas,SP
+13,Felipe Pereira,Goiania,GO
+14,Joao Rodrigues,Sao Paulo,SP
+15,Julia Pereira,Sao Paulo,SP
+16,Lucas Silva,Ribeirao Preto,SP
+17,Gabriel Santos,Rio de Janeiro,RJ
+18,Joao Lima,Curitiba,PR
+19,Larissa Ferreira,Brasilia,DF
+20,Beatriz Souza,Campinas,SP
+21,Ana Souza,Sao Paulo,SP
+22,Joao Souza,Brasilia,DF
+23,Carlos Costa,Sao Paulo,SP
+24,Rafael Pereira,Rio de Janeiro,RJ
+25,Julia Pereira,Belo Horizonte,MG
+26,Rafael Costa,Goiania,GO
+27,Beatriz Oliveira,Sao Paulo,SP
+28,Camila Souza,Salvador,BA
+29,Mariana Rodrigues,Belo Horizonte,MG
+30,Bruno Lima,Brasilia,DF
+31,Rafael Pereira,Goiania,GO
+32,Pedro Silva,Uberlandia,MG
+33,Carlos Costa,Campinas,SP
+34,Pedro Ferreira,Sao Paulo,SP
+35,Pedro Almeida,Campinas,SP
+36,Bruno Almeida,Curitiba,PR
+37,Lucas Oliveira,Belo Horizonte,MG
+38,Camila Lima,Goiania,GO
+39,Lucas Ferreira,Salvador,BA
+40,Bruno Ferreira,Curitiba,PR
+41,Julia Souza,Curitiba,PR
+42,Gabriel Almeida,Belo Horizonte,MG
+43,Felipe Silva,Sao Paulo,SP
+44,Maria Oliveira,Sao Paulo,SP
+45,Beatriz Santos,Curitiba,PR
+46,Carlos Ferreira,Curitiba,PR
+47,Gabriel Costa,Rio de Janeiro,RJ
+48,Larissa Silva,Salvador,BA
+49,Rafael Lima,Sao Paulo,SP
+50,Felipe Pereira,Brasilia,DF
+51,Lucas Rodrigues,Sao Paulo,SP
+52,Mariana Silva,Belo Horizonte,MG
+53,Gabriel Oliveira,Brasilia,DF
+54,Bruno Santos,Salvador,BA
+55,Larissa Lima,Brasilia,DF
+56,Pedro Oliveira,Ribeirao Preto,SP
+57,Felipe Oliveira,Campinas,SP
+58,Felipe Lima,Salvador,BA
+59,Beatriz Pereira,Uberlandia,MG
+60,Ana Santos,Rio de Janeiro,RJ
+61,Bruno Costa,Campinas,SP
+62,Ana Souza,Goiania,GO
+63,Joao Santos,Ribeirao Preto,SP
+64,Larissa Santos,Rio de Janeiro,RJ
+65,Felipe Oliveira,Salvador,BA
+66,Rafael Almeida,Belo Horizonte,MG
+67,Maria Costa,Salvador,BA
+68,Larissa Ferreira,Salvador,BA
+69,Pedro Lima,Curitiba,PR
+70,Camila Costa,Goiania,GO
+71,Rafael Pereira,Curitiba,PR
+72,Bruno Lima,Rio de Janeiro,RJ
+73,Joao Souza,Rio de Janeiro,RJ
+74,Joao Pereira,Goiania,GO
+75,Beatriz Lima,Uberlandia,MG
+76,Beatriz Souza,Goiania,GO
+77,Joao Silva,Uberlandia,MG
+78,Joao Silva,Goiania,GO
+79,Joao Lima,Campinas,SP
+80,Lucas Almeida,Goiania,GO
+81,Gabriel Oliveira,Goiania,GO
+82,Beatriz Almeida,Ribeirao Preto,SP
+83,Felipe Almeida,Goiania,GO
+84,Pedro Santos,Curitiba,PR
+85,Rafael Rodrigues,Sao Paulo,SP
+86,Carlos Rodrigues,Campinas,SP
+87,Larissa Silva,Rio de Janeiro,RJ
+88,Ana Rodrigues,Sao Paulo,SP
+89,Felipe Santos,Campinas,SP
+90,Pedro Souza,Goiania,GO
+91,Mariana Oliveira,Salvador,BA
+92,Maria Costa,Curitiba,PR
+93,Pedro Santos,Rio de Janeiro,RJ
+94,Felipe Lima,Rio de Janeiro,RJ
+95,Ana Lima,Sao Paulo,SP
+96,Joao Souza,Uberlandia,MG
+97,Carlos Almeida,Belo Horizonte,MG
+98,Pedro Rodrigues,Rio de Janeiro,RJ
+99,Maria Rodrigues,Uberlandia,MG
+100,Carlos Costa,Uberlandia,MG
+101,Lucas Rodrigues,Rio de Janeiro,RJ
+102,Rafael Almeida,Salvador,BA
+103,Pedro Costa,Belo Horizonte,MG
+104,Ana Ferreira,Goiania,GO
+105,Ana Pereira,Salvador,BA
+106,Ana Ferreira,Uberlandia,MG
+107,Gabriel Lima,Rio de Janeiro,RJ
+108,Ana Lima,Belo Horizonte,MG
+109,Larissa Oliveira,Sao Paulo,SP
+110,Beatriz Santos,Sao Paulo,SP
+111,Carlos Santos,Goiania,GO
+112,Pedro Ferreira,Ribeirao Preto,SP
+113,Ana Ferreira,Ribeirao Preto,SP
+114,Carlos Ferreira,Sao Paulo,SP
+115,Gabriel Pereira,Ribeirao Preto,SP
+116,Pedro Pereira,Brasilia,DF
+117,Lucas Rodrigues,Goiania,GO
+118,Rafael Costa,Belo Horizonte,MG
+119,Julia Santos,Rio de Janeiro,RJ
+120,Mariana Ferreira,Uberlandia,MG
+121,Joao Santos,Ribeirao Preto,SP
+122,Pedro Lima,Salvador,BA
+123,Maria Pereira,Brasilia,DF
+124,Bruno Souza,Sao Paulo,SP
+125,Lucas Oliveira,Campinas,SP
+126,Larissa Lima,Rio de Janeiro,RJ
+127,Beatriz Lima,Brasilia,DF
+128,Rafael Lima,Uberlandia,MG
+129,Bruno Santos,Brasilia,DF
+130,Lucas Santos,Belo Horizonte,MG
+131,Camila Lima,Sao Paulo,SP
+132,Lucas Costa,Belo Horizonte,MG
+133,Pedro Pereira,Ribeirao Preto,SP
+134,Rafael Costa,Goiania,GO
+135,Mariana Costa,Salvador,BA
+136,Joao Rodrigues,Uberlandia,MG
+137,Ana Silva,Brasilia,DF
+138,Felipe Oliveira,Campinas,SP
+139,Maria Almeida,Brasilia,DF
+140,Camila Rodrigues,Salvador,BA
+141,Ana Santos,Salvador,BA
+142,Bruno Oliveira,Sao Paulo,SP
+143,Ana Pereira,Salvador,BA
+144,Gabriel Oliveira,Ribeirao Preto,SP
+145,Maria Silva,Curitiba,PR
+146,Julia Silva,Brasilia,DF
+147,Pedro Souza,Campinas,SP
+148,Julia Lima,Sao Paulo,SP
+149,Beatriz Oliveira,Curitiba,PR
+150,Larissa Oliveira,Goiania,GO
+151,Bruno Rodrigues,Belo Horizonte,MG
+152,Maria Pereira,Uberlandia,MG
+153,Felipe Souza,Curitiba,PR
+154,Maria Santos,Brasilia,DF
+155,Larissa Silva,Curitiba,PR
+156,Pedro Souza,Rio de Janeiro,RJ
+157,Julia Costa,Rio de Janeiro,RJ
+158,Pedro Silva,Goiania,GO
+159,Carlos Pereira,Goiania,GO
+160,Larissa Santos,Brasilia,DF
+161,Julia Lima,Brasilia,DF
+162,Rafael Lima,Curitiba,PR
+163,Ana Santos,Campinas,SP
+164,Maria Ferreira,Brasilia,DF
+165,Ana Santos,Brasilia,DF
+166,Carlos Pereira,Ribeirao Preto,SP
+167,Carlos Ferreira,Campinas,SP
+168,Joao Rodrigues,Salvador,BA
+169,Pedro Costa,Ribeirao Preto,SP
+170,Camila Rodrigues,Uberlandia,MG
+171,Gabriel Lima,Uberlandia,MG
+172,Julia Rodrigues,Goiania,GO
+173,Rafael Pereira,Sao Paulo,SP
+174,Julia Santos,Ribeirao Preto,SP
+175,Gabriel Costa,Brasilia,DF
+176,Julia Rodrigues,Curitiba,PR
+177,Gabriel Oliveira,Brasilia,DF
+178,Carlos Rodrigues,Goiania,GO
+179,Beatriz Ferreira,Belo Horizonte,MG
+180,Carlos Lima,Brasilia,DF
+181,Lucas Costa,Uberlandia,MG
+182,Carlos Ferreira,Goiania,GO
+183,Rafael Pereira,Ribeirao Preto,SP
+184,Mariana Almeida,Rio de Janeiro,RJ
+185,Gabriel Almeida,Goiania,GO
+186,Rafael Santos,Belo Horizonte,MG
+187,Gabriel Ferreira,Brasilia,DF
+188,Joao Souza,Campinas,SP
+189,Pedro Souza,Brasilia,DF
+190,Ana Silva,Belo Horizonte,MG
+191,Mariana Ferreira,Goiania,GO
+192,Mariana Rodrigues,Sao Paulo,SP
+193,Pedro Rodrigues,Ribeirao Preto,SP
+194,Carlos Souza,Rio de Janeiro,RJ
+195,Rafael Silva,Belo Horizonte,MG
+196,Felipe Rodrigues,Sao Paulo,SP
+197,Maria Lima,Goiania,GO
+198,Ana Lima,Rio de Janeiro,RJ
+199,Bruno Santos,Goiania,GO
+200,Maria Almeida,Rio de Janeiro,RJ
+201,Gabriel Ferreira,Salvador,BA
+202,Felipe Almeida,Campinas,SP
+203,Larissa Lima,Ribeirao Preto,SP
+204,Larissa Lima,Curitiba,PR
+205,Bruno Oliveira,Rio de Janeiro,RJ
+206,Mariana Costa,Rio de Janeiro,RJ
+207,Larissa Costa,Goiania,GO
+208,Mariana Souza,Salvador,BA
+209,Mariana Santos,Brasilia,DF
+210,Pedro Costa,Brasilia,DF
+211,Julia Lima,Campinas,SP
+212,Maria Oliveira,Sao Paulo,SP
+213,Carlos Oliveira,Goiania,GO
+214,Joao Rodrigues,Goiania,GO
+215,Julia Lima,Curitiba,PR
+216,Carlos Silva,Rio de Janeiro,RJ
+217,Larissa Rodrigues,Goiania,GO
+218,Bruno Ferreira,Curitiba,PR
+219,Larissa Ferreira,Uberlandia,MG
+220,Mariana Silva,Curitiba,PR
+221,Lucas Rodrigues,Campinas,SP
+222,Gabriel Lima,Curitiba,PR
+223,Bruno Souza,Ribeirao Preto,SP
+224,Pedro Costa,Rio de Janeiro,RJ
+225,Mariana Silva,Curitiba,PR
+226,Julia Rodrigues,Curitiba,PR
+227,Larissa Almeida,Belo Horizonte,MG
+228,Beatriz Lima,Belo Horizonte,MG
+229,Bruno Rodrigues,Uberlandia,MG
+230,Beatriz Silva,Ribeirao Preto,SP
+231,Rafael Rodrigues,Sao Paulo,SP
+232,Larissa Almeida,Belo Horizonte,MG
+233,Ana Costa,Belo Horizonte,MG
+234,Julia Souza,Curitiba,PR
+235,Julia Pereira,Rio de Janeiro,RJ
+236,Lucas Rodrigues,Curitiba,PR
+237,Larissa Santos,Brasilia,DF
+238,Ana Lima,Rio de Janeiro,RJ
+239,Julia Souza,Uberlandia,MG
+240,Felipe Silva,Sao Paulo,SP
+241,Pedro Souza,Uberlandia,MG
+242,Beatriz Oliveira,Uberlandia,MG
+243,Maria Almeida,Goiania,GO
+244,Beatriz Souza,Sao Paulo,SP
+245,Camila Costa,Rio de Janeiro,RJ
+246,Maria Ferreira,Campinas,SP
+247,Camila Santos,Ribeirao Preto,SP
+248,Lucas Santos,Belo Horizonte,MG
+249,Ana Costa,Ribeirao Preto,SP
+250,Rafael Rodrigues,Ribeirao Preto,SP
+251,Camila Souza,Curitiba,PR
+252,Beatriz Souza,Sao Paulo,SP
+253,Camila Costa,Sao Paulo,SP
+254,Felipe Santos,Ribeirao Preto,SP
+255,Felipe Silva,Ribeirao Preto,SP
+256,Gabriel Rodrigues,Campinas,SP
+257,Joao Lima,Campinas,SP
+258,Ana Rodrigues,Campinas,SP
+259,Joao Rodrigues,Rio de Janeiro,RJ
+260,Rafael Almeida,Campinas,SP
+261,Carlos Oliveira,Belo Horizonte,MG
+262,Rafael Costa,Salvador,BA
+263,Felipe Lima,Ribeirao Preto,SP
+264,Mariana Rodrigues,Rio de Janeiro,RJ
+265,Lucas Pereira,Ribeirao Preto,SP
+266,Larissa Santos,Goiania,GO
+267,Bruno Almeida,Brasilia,DF
+268,Felipe Almeida,Goiania,GO
+269,Beatriz Rodrigues,Ribeirao Preto,SP
+270,Ana Almeida,Campinas,SP
+271,Maria Almeida,Campinas,SP
+272,Julia Costa,Goiania,GO
+273,Lucas Ferreira,Campinas,SP
+274,Gabriel Silva,Brasilia,DF
+275,Pedro Santos,Salvador,BA
+276,Camila Rodrigues,Goiania,GO
+277,Gabriel Souza,Rio de Janeiro,RJ
+278,Rafael Almeida,Rio de Janeiro,RJ
+279,Felipe Silva,Rio de Janeiro,RJ
+280,Lucas Souza,Sao Paulo,SP
+281,Camila Souza,Curitiba,PR
+282,Rafael Ferreira,Brasilia,DF
+283,Mariana Lima,Campinas,SP
+284,Julia Rodrigues,Salvador,BA
+285,Julia Pereira,Salvador,BA
+286,Lucas Costa,Rio de Janeiro,RJ
+287,Pedro Santos,Brasilia,DF
+288,Julia Santos,Goiania,GO
+289,Felipe Oliveira,Salvador,BA
+290,Pedro Almeida,Goiania,GO
+291,Camila Ferreira,Brasilia,DF
+292,Beatriz Costa,Salvador,BA
+293,Larissa Souza,Sao Paulo,SP
+294,Pedro Pereira,Brasilia,DF
+295,Lucas Silva,Belo Horizonte,MG
+296,Maria Costa,Salvador,BA
+297,Ana Lima,Uberlandia,MG
+298,Camila Oliveira,Brasilia,DF
+299,Joao Silva,Rio de Janeiro,RJ
+300,Lucas Almeida,Ribeirao Preto,SP
+301,Mariana Pereira,Rio de Janeiro,RJ
+302,Ana Costa,Belo Horizonte,MG
+303,Joao Santos,Rio de Janeiro,RJ
+304,Mariana Santos,Curitiba,PR
+305,Rafael Silva,Ribeirao Preto,SP
+306,Maria Ferreira,Belo Horizonte,MG
+307,Joao Souza,Brasilia,DF
+308,Gabriel Rodrigues,Sao Paulo,SP
+309,Beatriz Ferreira,Ribeirao Preto,SP
+310,Felipe Lima,Goiania,GO
+311,Mariana Almeida,Curitiba,PR
+312,Larissa Ferreira,Brasilia,DF
+313,Lucas Ferreira,Curitiba,PR
+314,Ana Ferreira,Ribeirao Preto,SP
+315,Felipe Souza,Sao Paulo,SP
+316,Lucas Santos,Goiania,GO
+317,Pedro Oliveira,Belo Horizonte,MG
+318,Joao Oliveira,Salvador,BA
+319,Carlos Almeida,Uberlandia,MG
+320,Mariana Costa,Ribeirao Preto,SP
+321,Pedro Costa,Uberlandia,MG
+322,Camila Almeida,Brasilia,DF
+323,Rafael Souza,Sao Paulo,SP
+324,Felipe Ferreira,Brasilia,DF
+325,Carlos Santos,Goiania,GO
+326,Pedro Oliveira,Salvador,BA
+327,Larissa Oliveira,Brasilia,DF
+328,Ana Oliveira,Sao Paulo,SP
+329,Beatriz Ferreira,Brasilia,DF
+330,Mariana Santos,Brasilia,DF
+331,Camila Costa,Rio de Janeiro,RJ
+332,Lucas Lima,Curitiba,PR
+333,Mariana Almeida,Salvador,BA
+334,Beatriz Silva,Sao Paulo,SP
+335,Camila Pereira,Curitiba,PR
+336,Lucas Silva,Ribeirao Preto,SP
+337,Pedro Ferreira,Sao Paulo,SP
+338,Ana Costa,Ribeirao Preto,SP
+339,Ana Oliveira,Ribeirao Preto,SP
+340,Gabriel Almeida,Rio de Janeiro,RJ
+341,Maria Ferreira,Brasilia,DF
+342,Rafael Almeida,Curitiba,PR
+343,Mariana Pereira,Sao Paulo,SP
+344,Julia Pereira,Curitiba,PR
+345,Larissa Oliveira,Sao Paulo,SP
+346,Carlos Almeida,Campinas,SP
+347,Rafael Rodrigues,Brasilia,DF
+348,Ana Almeida,Salvador,BA
+349,Julia Costa,Sao Paulo,SP
+350,Joao Rodrigues,Campinas,SP
+351,Larissa Silva,Salvador,BA
+352,Mariana Rodrigues,Salvador,BA
+353,Pedro Lima,Uberlandia,MG
+354,Beatriz Almeida,Campinas,SP
+355,Felipe Silva,Rio de Janeiro,RJ
+356,Lucas Lima,Goiania,GO
+357,Bruno Costa,Belo Horizonte,MG
+358,Bruno Almeida,Rio de Janeiro,RJ
+359,Ana Ferreira,Sao Paulo,SP
+360,Camila Oliveira,Goiania,GO
+361,Gabriel Silva,Brasilia,DF
+362,Carlos Santos,Salvador,BA
+363,Larissa Santos,Goiania,GO
+364,Joao Oliveira,Rio de Janeiro,RJ
+365,Bruno Costa,Rio de Janeiro,RJ
+366,Camila Costa,Salvador,BA
+367,Larissa Almeida,Curitiba,PR
+368,Pedro Almeida,Rio de Janeiro,RJ
+369,Maria Rodrigues,Salvador,BA
+370,Bruno Ferreira,Goiania,GO
+371,Camila Oliveira,Salvador,BA
+372,Lucas Rodrigues,Sao Paulo,SP
+373,Bruno Lima,Campinas,SP
+374,Larissa Silva,Brasilia,DF
+375,Camila Costa,Brasilia,DF
+376,Beatriz Almeida,Ribeirao Preto,SP
+377,Mariana Lima,Belo Horizonte,MG
+378,Julia Pereira,Rio de Janeiro,RJ
+379,Felipe Lima,Salvador,BA
+380,Mariana Pereira,Curitiba,PR
+381,Camila Souza,Goiania,GO
+382,Carlos Souza,Ribeirao Preto,SP
+383,Ana Pereira,Curitiba,PR
+384,Camila Rodrigues,Rio de Janeiro,RJ
+385,Rafael Oliveira,Curitiba,PR
+386,Ana Oliveira,Rio de Janeiro,RJ
+387,Beatriz Pereira,Salvador,BA
+388,Larissa Almeida,Sao Paulo,SP
+389,Gabriel Almeida,Sao Paulo,SP
+390,Camila Oliveira,Uberlandia,MG
+391,Larissa Oliveira,Curitiba,PR
+392,Mariana Costa,Sao Paulo,SP
+393,Beatriz Rodrigues,Campinas,SP
+394,Larissa Pereira,Sao Paulo,SP
+395,Carlos Pereira,Salvador,BA
+396,Larissa Lima,Rio de Janeiro,RJ
+397,Beatriz Santos,Uberlandia,MG
+398,Rafael Costa,Goiania,GO
+399,Camila Santos,Goiania,GO
+400,Joao Santos,Curitiba,PR
+401,Maria Costa,Rio de Janeiro,RJ
+402,Ana Pereira,Uberlandia,MG
+403,Lucas Pereira,Uberlandia,MG
+404,Carlos Oliveira,Campinas,SP
+405,Gabriel Rodrigues,Goiania,GO
+406,Rafael Oliveira,Ribeirao Preto,SP
+407,Maria Santos,Belo Horizonte,MG
+408,Larissa Rodrigues,Ribeirao Preto,SP
+409,Rafael Souza,Ribeirao Preto,SP
+410,Bruno Ferreira,Rio de Janeiro,RJ
+411,Pedro Almeida,Belo Horizonte,MG
+412,Mariana Costa,Brasilia,DF
+413,Bruno Almeida,Uberlandia,MG
+414,Rafael Lima,Brasilia,DF
+415,Joao Almeida,Belo Horizonte,MG
+416,Beatriz Costa,Campinas,SP
+417,Camila Costa,Curitiba,PR
+418,Larissa Costa,Rio de Janeiro,RJ
+419,Carlos Almeida,Goiania,GO
+420,Pedro Rodrigues,Sao Paulo,SP
+421,Julia Ferreira,Ribeirao Preto,SP
+422,Camila Costa,Brasilia,DF
+423,Larissa Rodrigues,Uberlandia,MG
+424,Ana Ferreira,Brasilia,DF
+425,Bruno Ferreira,Uberlandia,MG
+426,Larissa Costa,Rio de Janeiro,RJ
+427,Beatriz Pereira,Goiania,GO
+428,Rafael Souza,Goiania,GO
+429,Lucas Oliveira,Ribeirao Preto,SP
+430,Bruno Silva,Sao Paulo,SP
+431,Felipe Almeida,Brasilia,DF
+432,Beatriz Pereira,Uberlandia,MG
+433,Joao Costa,Belo Horizonte,MG
+434,Camila Rodrigues,Campinas,SP
+435,Pedro Oliveira,Belo Horizonte,MG
+436,Bruno Pereira,Salvador,BA
+437,Gabriel Costa,Salvador,BA
+438,Lucas Almeida,Belo Horizonte,MG
+439,Camila Pereira,Brasilia,DF
+440,Mariana Santos,Sao Paulo,SP
+441,Felipe Souza,Belo Horizonte,MG
+442,Larissa Lima,Curitiba,PR
+443,Joao Rodrigues,Campinas,SP
+444,Lucas Lima,Uberlandia,MG
+445,Mariana Pereira,Sao Paulo,SP
+446,Beatriz Rodrigues,Brasilia,DF
+447,Joao Souza,Campinas,SP
+448,Ana Ferreira,Rio de Janeiro,RJ
+449,Julia Ferreira,Salvador,BA
+450,Rafael Santos,Goiania,GO
+451,Bruno Costa,Rio de Janeiro,RJ
+452,Joao Oliveira,Curitiba,PR
+453,Ana Costa,Uberlandia,MG
+454,Joao Santos,Rio de Janeiro,RJ
+455,Bruno Lima,Goiania,GO
+456,Carlos Almeida,Belo Horizonte,MG
+457,Rafael Lima,Campinas,SP
+458,Beatriz Oliveira,Curitiba,PR
+459,Rafael Santos,Curitiba,PR
+460,Beatriz Rodrigues,Rio de Janeiro,RJ
+461,Ana Pereira,Brasilia,DF
+462,Mariana Almeida,Goiania,GO
+463,Larissa Pereira,Goiania,GO
+464,Rafael Pereira,Sao Paulo,SP
+465,Bruno Pereira,Salvador,BA
+466,Carlos Costa,Uberlandia,MG
+467,Joao Almeida,Goiania,GO
+468,Rafael Souza,Sao Paulo,SP
+469,Ana Silva,Ribeirao Preto,SP
+470,Pedro Oliveira,Campinas,SP
+471,Pedro Santos,Ribeirao Preto,SP
+472,Pedro Ferreira,Salvador,BA
+473,Larissa Souza,Goiania,GO
+474,Felipe Oliveira,Campinas,SP
+475,Ana Costa,Ribeirao Preto,SP
+476,Maria Lima,Belo Horizonte,MG
+477,Felipe Oliveira,Brasilia,DF
+478,Rafael Silva,Sao Paulo,SP
+479,Ana Pereira,Belo Horizonte,MG
+480,Beatriz Pereira,Goiania,GO
+481,Maria Costa,Uberlandia,MG
+482,Maria Rodrigues,Uberlandia,MG
+483,Joao Santos,Salvador,BA
+484,Mariana Pereira,Rio de Janeiro,RJ
+485,Beatriz Santos,Salvador,BA
+486,Gabriel Souza,Rio de Janeiro,RJ
+487,Ana Lima,Ribeirao Preto,SP
+488,Mariana Silva,Brasilia,DF
+489,Mariana Rodrigues,Uberlandia,MG
+490,Rafael Santos,Curitiba,PR
+491,Camila Almeida,Rio de Janeiro,RJ
+492,Bruno Santos,Sao Paulo,SP
+493,Beatriz Oliveira,Campinas,SP
+494,Maria Costa,Sao Paulo,SP
+495,Rafael Ferreira,Ribeirao Preto,SP
+496,Camila Pereira,Salvador,BA
+497,Beatriz Lima,Curitiba,PR
+498,Mariana Lima,Brasilia,DF
+499,Carlos Santos,Ribeirao Preto,SP
+500,Larissa Lima,Sao Paulo,SP
+501,Carlos Almeida,Goiania,GO
+502,Carlos Pereira,Goiania,GO
+503,Carlos Rodrigues,Rio de Janeiro,RJ
+504,Julia Rodrigues,Sao Paulo,SP
+505,Rafael Costa,Campinas,SP
+506,Maria Almeida,Campinas,SP
+507,Joao Santos,Sao Paulo,SP
+508,Carlos Santos,Sao Paulo,SP
+509,Felipe Oliveira,Campinas,SP
+510,Ana Ferreira,Salvador,BA
+511,Gabriel Pereira,Salvador,BA
+512,Carlos Pereira,Sao Paulo,SP
+513,Larissa Silva,Curitiba,PR
+514,Beatriz Costa,Brasilia,DF
+515,Joao Ferreira,Campinas,SP
+516,Pedro Oliveira,Salvador,BA
+517,Pedro Santos,Rio de Janeiro,RJ
+518,Larissa Lima,Campinas,SP
+519,Joao Costa,Campinas,SP
+520,Pedro Rodrigues,Ribeirao Preto,SP
+521,Felipe Ferreira,Salvador,BA
+522,Rafael Lima,Ribeirao Preto,SP
+523,Beatriz Costa,Uberlandia,MG
+524,Maria Costa,Uberlandia,MG
+525,Bruno Pereira,Brasilia,DF
+526,Ana Oliveira,Campinas,SP
+527,Beatriz Rodrigues,Belo Horizonte,MG
+528,Maria Silva,Sao Paulo,SP
+529,Camila Lima,Sao Paulo,SP
+530,Carlos Rodrigues,Goiania,GO
+531,Julia Oliveira,Rio de Janeiro,RJ
+532,Lucas Pereira,Campinas,SP
+533,Beatriz Santos,Ribeirao Preto,SP
+534,Maria Oliveira,Uberlandia,MG
+535,Ana Santos,Ribeirao Preto,SP
+536,Mariana Rodrigues,Brasilia,DF
+537,Beatriz Almeida,Rio de Janeiro,RJ
+538,Lucas Souza,Curitiba,PR
+539,Joao Pereira,Salvador,BA
+540,Joao Costa,Curitiba,PR
+541,Mariana Lima,Ribeirao Preto,SP
+542,Ana Souza,Brasilia,DF
+543,Beatriz Silva,Curitiba,PR
+544,Pedro Costa,Uberlandia,MG
+545,Felipe Oliveira,Goiania,GO
+546,Lucas Pereira,Brasilia,DF
+547,Ana Almeida,Sao Paulo,SP
+548,Maria Oliveira,Curitiba,PR
+549,Gabriel Souza,Curitiba,PR
+550,Gabriel Pereira,Salvador,BA
+551,Carlos Silva,Sao Paulo,SP
+552,Ana Almeida,Curitiba,PR
+553,Larissa Pereira,Sao Paulo,SP
+554,Carlos Ferreira,Ribeirao Preto,SP
+555,Camila Rodrigues,Curitiba,PR
+556,Joao Rodrigues,Brasilia,DF
+557,Julia Oliveira,Uberlandia,MG
+558,Mariana Pereira,Ribeirao Preto,SP
+559,Carlos Santos,Sao Paulo,SP
+560,Carlos Ferreira,Goiania,GO
+561,Gabriel Santos,Curitiba,PR
+562,Larissa Costa,Curitiba,PR
+563,Pedro Pereira,Campinas,SP
+564,Joao Lima,Belo Horizonte,MG
+565,Gabriel Lima,Sao Paulo,SP
+566,Bruno Pereira,Goiania,GO
+567,Camila Oliveira,Campinas,SP
+568,Joao Oliveira,Goiania,GO
+569,Pedro Oliveira,Brasilia,DF
+570,Maria Santos,Ribeirao Preto,SP
+571,Felipe Almeida,Belo Horizonte,MG
+572,Felipe Ferreira,Rio de Janeiro,RJ
+573,Mariana Ferreira,Ribeirao Preto,SP
+574,Julia Pereira,Ribeirao Preto,SP
+575,Mariana Santos,Belo Horizonte,MG
+576,Mariana Costa,Rio de Janeiro,RJ
+577,Beatriz Silva,Brasilia,DF
+578,Gabriel Santos,Campinas,SP
+579,Mariana Almeida,Brasilia,DF
+580,Ana Pereira,Uberlandia,MG
+581,Joao Santos,Brasilia,DF
+582,Beatriz Lima,Ribeirao Preto,SP
+583,Mariana Ferreira,Curitiba,PR
+584,Felipe Silva,Salvador,BA
+585,Bruno Ferreira,Rio de Janeiro,RJ
+586,Julia Ferreira,Goiania,GO
+587,Gabriel Oliveira,Rio de Janeiro,RJ
+588,Mariana Santos,Uberlandia,MG
+589,Camila Santos,Campinas,SP
+590,Rafael Oliveira,Salvador,BA
+591,Pedro Almeida,Uberlandia,MG
+592,Gabriel Lima,Rio de Janeiro,RJ
+593,Maria Pereira,Ribeirao Preto,SP
+594,Bruno Costa,Campinas,SP
+595,Carlos Pereira,Curitiba,PR
+596,Ana Pereira,Ribeirao Preto,SP
+597,Julia Santos,Sao Paulo,SP
+598,Rafael Rodrigues,Salvador,BA
+599,Lucas Ferreira,Brasilia,DF
+600,Julia Santos,Belo Horizonte,MG
+601,Rafael Oliveira,Ribeirao Preto,SP
+602,Lucas Rodrigues,Campinas,SP
+603,Beatriz Santos,Belo Horizonte,MG
+604,Gabriel Rodrigues,Brasilia,DF
+605,Larissa Oliveira,Campinas,SP
+606,Joao Rodrigues,Salvador,BA
+607,Julia Silva,Salvador,BA
+608,Lucas Oliveira,Campinas,SP
+609,Julia Almeida,Goiania,GO
+610,Pedro Oliveira,Goiania,GO
+611,Joao Costa,Belo Horizonte,MG
+612,Gabriel Lima,Sao Paulo,SP
+613,Ana Pereira,Salvador,BA
+614,Maria Ferreira,Ribeirao Preto,SP
+615,Maria Oliveira,Curitiba,PR
+616,Larissa Ferreira,Belo Horizonte,MG
+617,Camila Almeida,Belo Horizonte,MG
+618,Carlos Pereira,Uberlandia,MG
+619,Mariana Ferreira,Goiania,GO
+620,Felipe Almeida,Brasilia,DF
+621,Gabriel Souza,Goiania,GO
+622,Felipe Almeida,Brasilia,DF
+623,Julia Ferreira,Goiania,GO
+624,Mariana Costa,Rio de Janeiro,RJ
+625,Gabriel Lima,Curitiba,PR
+626,Maria Souza,Curitiba,PR
+627,Maria Costa,Ribeirao Preto,SP
+628,Rafael Almeida,Uberlandia,MG
+629,Gabriel Santos,Campinas,SP
+630,Larissa Santos,Salvador,BA
+631,Joao Oliveira,Brasilia,DF
+632,Mariana Lima,Brasilia,DF
+633,Larissa Rodrigues,Belo Horizonte,MG
+634,Bruno Souza,Sao Paulo,SP
+635,Bruno Pereira,Rio de Janeiro,RJ
+636,Carlos Silva,Uberlandia,MG
+637,Gabriel Pereira,Curitiba,PR
+638,Carlos Santos,Goiania,GO
+639,Pedro Silva,Campinas,SP
+640,Bruno Santos,Campinas,SP
+641,Felipe Oliveira,Campinas,SP
+642,Ana Costa,Belo Horizonte,MG
+643,Camila Oliveira,Rio de Janeiro,RJ
+644,Mariana Ferreira,Rio de Janeiro,RJ
+645,Bruno Santos,Uberlandia,MG
+646,Lucas Souza,Uberlandia,MG
+647,Gabriel Ferreira,Belo Horizonte,MG
+648,Carlos Santos,Salvador,BA
+649,Pedro Costa,Brasilia,DF
+650,Ana Souza,Sao Paulo,SP
+651,Rafael Ferreira,Curitiba,PR
+652,Joao Santos,Rio de Janeiro,RJ
+653,Beatriz Lima,Rio de Janeiro,RJ
+654,Rafael Lima,Uberlandia,MG
+655,Pedro Oliveira,Ribeirao Preto,SP
+656,Carlos Silva,Brasilia,DF
+657,Julia Souza,Ribeirao Preto,SP
+658,Carlos Oliveira,Ribeirao Preto,SP
+659,Gabriel Pereira,Sao Paulo,SP
+660,Gabriel Lima,Sao Paulo,SP
+661,Felipe Lima,Salvador,BA
+662,Ana Rodrigues,Salvador,BA
+663,Ana Rodrigues,Rio de Janeiro,RJ
+664,Lucas Silva,Campinas,SP
+665,Felipe Santos,Campinas,SP
+666,Pedro Santos,Campinas,SP
+667,Camila Pereira,Ribeirao Preto,SP
+668,Ana Pereira,Belo Horizonte,MG
+669,Julia Oliveira,Salvador,BA
+670,Camila Almeida,Rio de Janeiro,RJ
+671,Felipe Oliveira,Belo Horizonte,MG
+672,Camila Almeida,Sao Paulo,SP
+673,Lucas Souza,Uberlandia,MG
+674,Felipe Souza,Uberlandia,MG
+675,Julia Costa,Uberlandia,MG
+676,Carlos Lima,Salvador,BA
+677,Lucas Silva,Rio de Janeiro,RJ
+678,Lucas Pereira,Goiania,GO
+679,Larissa Pereira,Uberlandia,MG
+680,Joao Pereira,Brasilia,DF
+681,Bruno Rodrigues,Curitiba,PR
+682,Bruno Rodrigues,Rio de Janeiro,RJ
+683,Maria Almeida,Campinas,SP
+684,Julia Lima,Rio de Janeiro,RJ
+685,Felipe Santos,Brasilia,DF
+686,Joao Rodrigues,Curitiba,PR
+687,Larissa Oliveira,Ribeirao Preto,SP
+688,Lucas Pereira,Salvador,BA
+689,Joao Pereira,Sao Paulo,SP
+690,Lucas Almeida,Brasilia,DF
+691,Camila Rodrigues,Ribeirao Preto,SP
+692,Camila Almeida,Belo Horizonte,MG
+693,Mariana Silva,Campinas,SP
+694,Beatriz Rodrigues,Campinas,SP
+695,Rafael Silva,Brasilia,DF
+696,Rafael Rodrigues,Sao Paulo,SP
+697,Gabriel Oliveira,Campinas,SP
+698,Maria Ferreira,Uberlandia,MG
+699,Ana Oliveira,Rio de Janeiro,RJ
+700,Pedro Pereira,Sao Paulo,SP
+701,Carlos Ferreira,Campinas,SP
+702,Beatriz Oliveira,Uberlandia,MG
+703,Julia Pereira,Rio de Janeiro,RJ
+704,Felipe Santos,Rio de Janeiro,RJ
+705,Maria Lima,Ribeirao Preto,SP
+706,Carlos Pereira,Campinas,SP
+707,Pedro Santos,Brasilia,DF
+708,Camila Oliveira,Uberlandia,MG
+709,Gabriel Rodrigues,Rio de Janeiro,RJ
+710,Joao Costa,Salvador,BA
+711,Camila Almeida,Brasilia,DF
+712,Beatriz Costa,Goiania,GO
+713,Pedro Santos,Rio de Janeiro,RJ
+714,Larissa Santos,Belo Horizonte,MG
+715,Maria Almeida,Rio de Janeiro,RJ
+716,Felipe Pereira,Sao Paulo,SP
+717,Camila Santos,Campinas,SP
+718,Gabriel Costa,Salvador,BA
+719,Larissa Oliveira,Brasilia,DF
+720,Felipe Pereira,Belo Horizonte,MG
+721,Pedro Santos,Salvador,BA
+722,Felipe Oliveira,Goiania,GO
+723,Felipe Almeida,Goiania,GO
+724,Julia Lima,Uberlandia,MG
+725,Julia Almeida,Ribeirao Preto,SP
+726,Maria Ferreira,Salvador,BA
+727,Joao Costa,Sao Paulo,SP
+728,Camila Almeida,Curitiba,PR
+729,Carlos Rodrigues,Salvador,BA
+730,Joao Oliveira,Ribeirao Preto,SP
+731,Rafael Santos,Campinas,SP
+732,Mariana Lima,Rio de Janeiro,RJ
+733,Maria Lima,Campinas,SP
+734,Maria Oliveira,Ribeirao Preto,SP
+735,Gabriel Silva,Curitiba,PR
+736,Gabriel Oliveira,Sao Paulo,SP
+737,Maria Oliveira,Brasilia,DF
+738,Bruno Souza,Campinas,SP
+739,Gabriel Costa,Campinas,SP
+740,Lucas Souza,Sao Paulo,SP
+741,Lucas Oliveira,Salvador,BA
+742,Beatriz Lima,Brasilia,DF
+743,Gabriel Oliveira,Sao Paulo,SP
+744,Beatriz Oliveira,Ribeirao Preto,SP
+745,Rafael Ferreira,Belo Horizonte,MG
+746,Julia Ferreira,Ribeirao Preto,SP
+747,Larissa Silva,Uberlandia,MG
+748,Ana Ferreira,Sao Paulo,SP
+749,Rafael Souza,Brasilia,DF
+750,Carlos Ferreira,Ribeirao Preto,SP
+751,Mariana Lima,Uberlandia,MG
+752,Rafael Costa,Brasilia,DF
+753,Pedro Rodrigues,Rio de Janeiro,RJ
+754,Mariana Santos,Brasilia,DF
+755,Maria Almeida,Uberlandia,MG
+756,Mariana Almeida,Curitiba,PR
+757,Julia Ferreira,Goiania,GO
+758,Julia Pereira,Belo Horizonte,MG
+759,Carlos Oliveira,Campinas,SP
+760,Gabriel Lima,Campinas,SP
+761,Julia Souza,Sao Paulo,SP
+762,Joao Costa,Rio de Janeiro,RJ
+763,Pedro Oliveira,Rio de Janeiro,RJ
+764,Ana Costa,Sao Paulo,SP
+765,Larissa Ferreira,Curitiba,PR
+766,Pedro Oliveira,Curitiba,PR
+767,Bruno Ferreira,Campinas,SP
+768,Pedro Oliveira,Campinas,SP
+769,Gabriel Almeida,Rio de Janeiro,RJ
+770,Bruno Costa,Rio de Janeiro,RJ
+771,Ana Santos,Rio de Janeiro,RJ
+772,Gabriel Almeida,Curitiba,PR
+773,Pedro Ferreira,Goiania,GO
+774,Ana Silva,Campinas,SP
+775,Mariana Ferreira,Brasilia,DF
+776,Lucas Lima,Rio de Janeiro,RJ
+777,Larissa Santos,Uberlandia,MG
+778,Maria Costa,Curitiba,PR
+779,Felipe Rodrigues,Campinas,SP
+780,Ana Rodrigues,Campinas,SP
+781,Beatriz Lima,Uberlandia,MG
+782,Julia Lima,Goiania,GO
+783,Joao Rodrigues,Brasilia,DF
+784,Mariana Lima,Salvador,BA
+785,Larissa Ferreira,Brasilia,DF
+786,Joao Oliveira,Ribeirao Preto,SP
+787,Carlos Pereira,Sao Paulo,SP
+788,Gabriel Pereira,Campinas,SP
+789,Pedro Ferreira,Belo Horizonte,MG
+790,Carlos Lima,Salvador,BA
+791,Ana Silva,Uberlandia,MG
+792,Camila Pereira,Belo Horizonte,MG
+793,Gabriel Almeida,Rio de Janeiro,RJ
+794,Beatriz Lima,Belo Horizonte,MG
+795,Julia Ferreira,Belo Horizonte,MG
+796,Maria Rodrigues,Campinas,SP
+797,Camila Costa,Ribeirao Preto,SP
+798,Julia Lima,Ribeirao Preto,SP
+799,Gabriel Almeida,Salvador,BA
+800,Lucas Almeida,Ribeirao Preto,SP
+801,Julia Pereira,Uberlandia,MG
+802,Carlos Ferreira,Sao Paulo,SP
+803,Felipe Silva,Brasilia,DF
+804,Mariana Costa,Ribeirao Preto,SP
+805,Beatriz Souza,Ribeirao Preto,SP
+806,Beatriz Almeida,Uberlandia,MG
+807,Gabriel Ferreira,Belo Horizonte,MG
+808,Maria Souza,Curitiba,PR
+809,Beatriz Santos,Uberlandia,MG
+810,Ana Almeida,Goiania,GO
+811,Carlos Oliveira,Campinas,SP
+812,Camila Souza,Curitiba,PR
+813,Gabriel Ferreira,Curitiba,PR
+814,Larissa Silva,Rio de Janeiro,RJ
+815,Gabriel Souza,Belo Horizonte,MG
+816,Julia Almeida,Salvador,BA
+817,Carlos Pereira,Salvador,BA
+818,Mariana Lima,Belo Horizonte,MG
+819,Gabriel Pereira,Campinas,SP
+820,Beatriz Almeida,Brasilia,DF
+821,Pedro Costa,Goiania,GO
+822,Lucas Souza,Salvador,BA
+823,Felipe Costa,Brasilia,DF
+824,Camila Almeida,Goiania,GO
+825,Mariana Pereira,Campinas,SP
+826,Bruno Costa,Salvador,BA
+827,Joao Ferreira,Brasilia,DF
+828,Carlos Rodrigues,Salvador,BA
+829,Felipe Oliveira,Campinas,SP
+830,Ana Costa,Brasilia,DF
+831,Julia Almeida,Sao Paulo,SP
+832,Camila Almeida,Brasilia,DF
+833,Pedro Lima,Goiania,GO
+834,Bruno Lima,Brasilia,DF
+835,Maria Santos,Brasilia,DF
+836,Camila Ferreira,Ribeirao Preto,SP
+837,Pedro Silva,Goiania,GO
+838,Pedro Souza,Salvador,BA
+839,Joao Rodrigues,Uberlandia,MG
+840,Camila Almeida,Campinas,SP
+841,Rafael Oliveira,Sao Paulo,SP
+842,Gabriel Oliveira,Uberlandia,MG
+843,Rafael Almeida,Curitiba,PR
+844,Rafael Souza,Rio de Janeiro,RJ
+845,Julia Costa,Brasilia,DF
+846,Bruno Santos,Uberlandia,MG
+847,Pedro Lima,Ribeirao Preto,SP
+848,Bruno Oliveira,Uberlandia,MG
+849,Bruno Oliveira,Curitiba,PR
+850,Larissa Rodrigues,Uberlandia,MG
+851,Maria Costa,Rio de Janeiro,RJ
+852,Ana Costa,Uberlandia,MG
+853,Beatriz Santos,Ribeirao Preto,SP
+854,Lucas Almeida,Campinas,SP
+855,Gabriel Almeida,Salvador,BA
+856,Larissa Lima,Belo Horizonte,MG
+857,Lucas Souza,Rio de Janeiro,RJ
+858,Julia Oliveira,Sao Paulo,SP
+859,Rafael Costa,Rio de Janeiro,RJ
+860,Ana Pereira,Belo Horizonte,MG
+861,Beatriz Souza,Brasilia,DF
+862,Beatriz Rodrigues,Belo Horizonte,MG
+863,Gabriel Pereira,Curitiba,PR
+864,Carlos Santos,Sao Paulo,SP
+865,Maria Almeida,Belo Horizonte,MG
+866,Bruno Souza,Campinas,SP
+867,Lucas Rodrigues,Uberlandia,MG
+868,Mariana Costa,Goiania,GO
+869,Lucas Ferreira,Campinas,SP
+870,Ana Costa,Ribeirao Preto,SP
+871,Camila Souza,Campinas,SP
+872,Rafael Santos,Uberlandia,MG
+873,Lucas Oliveira,Rio de Janeiro,RJ
+874,Rafael Lima,Curitiba,PR
+875,Camila Santos,Brasilia,DF
+876,Julia Ferreira,Brasilia,DF
+877,Pedro Oliveira,Goiania,GO
+878,Maria Almeida,Rio de Janeiro,RJ
+879,Julia Rodrigues,Ribeirao Preto,SP
+880,Bruno Almeida,Salvador,BA
+881,Felipe Souza,Salvador,BA
+882,Rafael Ferreira,Goiania,GO
+883,Gabriel Almeida,Sao Paulo,SP
+884,Camila Pereira,Salvador,BA
+885,Bruno Ferreira,Sao Paulo,SP
+886,Ana Lima,Sao Paulo,SP
+887,Pedro Ferreira,Salvador,BA
+888,Maria Oliveira,Salvador,BA
+889,Larissa Lima,Campinas,SP
+890,Joao Souza,Rio de Janeiro,RJ
+891,Mariana Santos,Ribeirao Preto,SP
+892,Mariana Silva,Salvador,BA
+893,Maria Lima,Rio de Janeiro,RJ
+894,Mariana Ferreira,Curitiba,PR
+895,Gabriel Almeida,Uberlandia,MG
+896,Camila Silva,Brasilia,DF
+897,Lucas Silva,Curitiba,PR
+898,Beatriz Santos,Goiania,GO
+899,Carlos Pereira,Uberlandia,MG
+900,Gabriel Silva,Sao Paulo,SP
+901,Bruno Almeida,Sao Paulo,SP
+902,Lucas Rodrigues,Uberlandia,MG
+903,Felipe Oliveira,Belo Horizonte,MG
+904,Julia Rodrigues,Curitiba,PR
+905,Larissa Rodrigues,Rio de Janeiro,RJ
+906,Joao Lima,Curitiba,PR
+907,Rafael Pereira,Belo Horizonte,MG
+908,Maria Lima,Sao Paulo,SP
+909,Gabriel Oliveira,Curitiba,PR
+910,Larissa Silva,Goiania,GO
+911,Lucas Almeida,Uberlandia,MG
+912,Carlos Lima,Salvador,BA
+913,Larissa Souza,Curitiba,PR
+914,Mariana Pereira,Goiania,GO
+915,Lucas Souza,Belo Horizonte,MG
+916,Ana Rodrigues,Sao Paulo,SP
+917,Felipe Silva,Ribeirao Preto,SP
+918,Pedro Santos,Goiania,GO
+919,Beatriz Silva,Sao Paulo,SP
+920,Beatriz Silva,Rio de Janeiro,RJ
+921,Camila Silva,Goiania,GO
+922,Mariana Souza,Curitiba,PR
+923,Pedro Silva,Salvador,BA
+924,Gabriel Costa,Belo Horizonte,MG
+925,Larissa Ferreira,Goiania,GO
+926,Beatriz Ferreira,Campinas,SP
+927,Pedro Costa,Campinas,SP
+928,Rafael Lima,Belo Horizonte,MG
+929,Carlos Costa,Goiania,GO
+930,Ana Lima,Brasilia,DF
+931,Bruno Oliveira,Ribeirao Preto,SP
+932,Gabriel Almeida,Curitiba,PR
+933,Julia Rodrigues,Uberlandia,MG
+934,Julia Rodrigues,Salvador,BA
+935,Maria Costa,Curitiba,PR
+936,Maria Lima,Curitiba,PR
+937,Pedro Souza,Rio de Janeiro,RJ
+938,Larissa Oliveira,Brasilia,DF
+939,Bruno Silva,Rio de Janeiro,RJ
+940,Carlos Rodrigues,Salvador,BA
+941,Gabriel Oliveira,Salvador,BA
+942,Pedro Costa,Curitiba,PR
+943,Julia Santos,Goiania,GO
+944,Larissa Pereira,Rio de Janeiro,RJ
+945,Gabriel Souza,Sao Paulo,SP
+946,Lucas Rodrigues,Uberlandia,MG
+947,Beatriz Silva,Ribeirao Preto,SP
+948,Pedro Ferreira,Sao Paulo,SP
+949,Pedro Almeida,Salvador,BA
+950,Larissa Pereira,Goiania,GO
+951,Bruno Silva,Brasilia,DF
+952,Bruno Souza,Goiania,GO
+953,Camila Almeida,Sao Paulo,SP
+954,Camila Ferreira,Goiania,GO
+955,Carlos Souza,Goiania,GO
+956,Julia Costa,Salvador,BA
+957,Mariana Lima,Curitiba,PR
+958,Lucas Costa,Campinas,SP
+959,Gabriel Almeida,Campinas,SP
+960,Joao Almeida,Rio de Janeiro,RJ
+961,Bruno Souza,Campinas,SP
+962,Julia Rodrigues,Campinas,SP
+963,Beatriz Souza,Uberlandia,MG
+964,Ana Costa,Belo Horizonte,MG
+965,Bruno Ferreira,Salvador,BA
+966,Camila Rodrigues,Ribeirao Preto,SP
+967,Maria Souza,Brasilia,DF
+968,Pedro Rodrigues,Campinas,SP
+969,Larissa Souza,Ribeirao Preto,SP
+970,Gabriel Pereira,Rio de Janeiro,RJ
+971,Felipe Almeida,Brasilia,DF
+972,Mariana Oliveira,Rio de Janeiro,RJ
+973,Maria Oliveira,Campinas,SP
+974,Mariana Oliveira,Salvador,BA
+975,Rafael Silva,Salvador,BA
+976,Ana Santos,Salvador,BA
+977,Felipe Silva,Uberlandia,MG
+978,Maria Souza,Curitiba,PR
+979,Camila Oliveira,Sao Paulo,SP
+980,Pedro Lima,Uberlandia,MG
+981,Julia Silva,Rio de Janeiro,RJ
+982,Rafael Ferreira,Ribeirao Preto,SP
+983,Rafael Almeida,Rio de Janeiro,RJ
+984,Ana Lima,Uberlandia,MG
+985,Carlos Silva,Salvador,BA
+986,Gabriel Costa,Uberlandia,MG
+987,Lucas Silva,Salvador,BA
+988,Larissa Rodrigues,Salvador,BA
+989,Joao Santos,Belo Horizonte,MG
+990,Maria Souza,Salvador,BA
+991,Beatriz Lima,Goiania,GO
+992,Larissa Pereira,Brasilia,DF
+993,Felipe Rodrigues,Brasilia,DF
+994,Julia Rodrigues,Sao Paulo,SP
+995,Beatriz Souza,Rio de Janeiro,RJ
+996,Lucas Santos,Goiania,GO
+997,Joao Rodrigues,Uberlandia,MG
+998,Carlos Lima,Curitiba,PR
+999,Ana Silva,Rio de Janeiro,RJ
+1000,Joao Almeida,Belo Horizonte,MG

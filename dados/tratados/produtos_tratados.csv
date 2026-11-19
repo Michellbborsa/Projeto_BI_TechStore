@@ -1,0 +1,31 @@
+﻿id_produto,nome,categoria,preco,custo
+1,Smartphone,Celulares,2500,1400
+2,Notebook,Informatica,4200,2900
+3,Tablet,Informatica,1800,1100
+4,Smart TV,Televisores,3200,2200
+5,Fone Bluetooth,Acessorios,250,100
+6,Mouse Gamer,Acessorios,180,70
+7,Teclado Mecanico,Acessorios,350,160
+8,Monitor,Informatica,1200,750
+9,Smartwatch,Wearables,900,500
+10,Caixa de Som,Audio,450,230
+11,Headset,Audio,380,190
+12,Webcam,Acessorios,300,150
+13,Impressora,Informatica,950,600
+14,Console,Games,3800,2800
+15,Controle Gamer,Games,400,220
+16,Camera Digital,Fotografia,2100,1400
+17,Roteador,Redes,280,130
+18,SSD 1TB,Informatica,550,300
+19,HD Externo,Informatica,420,240
+20,Microfone,Audio,600,320
+21,Carregador,Acessorios,120,45
+22,Cabo HDMI,Acessorios,60,20
+23,Power Bank,Acessorios,180,80
+24,Projetor,Eletronicos,2500,1700
+25,Drone,Eletronicos,4500,3100
+26,Placa de Video,Informatica,3500,2500
+27,Processador,Informatica,1800,1200
+28,Memoria RAM,Informatica,450,250
+29,Notebook Gamer,Informatica,6500,4700
+30,Smart Speaker,Audio,500,280
